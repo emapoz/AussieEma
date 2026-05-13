@@ -58,7 +58,7 @@ REVIEWS: list[dict[str, str]] = [
     {
         "name": "Marco",
         "tag": "Partenza Australia",
-        "text": "Mi ha aiutato a capire i primi passi senza vendermi il solito sogno.",
+        "text": "Mi ha aiutato tanto a capire i primi passi senza vendermi il solito sogno.",
     },
 ]
 
